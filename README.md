@@ -75,40 +75,40 @@ Each octive row are stacked so the highest octives are on top and the lowest are
 Notes that are playing on the other layers on the grid set will light up the corresponding buttons.
 
 <b>  Scales: </b> 
-majorScale = 0 
-minorScale = 1 
-chromaticScale = 2 
-bluesScale = 3 
-bluesDiminishedScale = 4 
-fullMinorScale = 5 
-harmonicMajorScale = 6 
-harmonicMinorScale = 7 
-jazzMinorScale = 8 
-hawaiianScale = 9 
-orientalScale = 10 
-majorMinorScale = 11 
-genusChromaticum = 12 
-dorian = 13 
-indian = 14 
-locrian = 15 
-lydian = 16 
-melodicMinor = 17 
-mixolydian = 18 
-pentatonic = 19 
-phrygian = 20 
-turkish = 21 
-wholeHalf = 22 
-wholeTone = 23 
-spanish = 24 
-pelog = 25 
-kumoi = 26 
-iwato = 27 
-inSen = 28 
-hirojoshi = 29 
-hungarianMinor = 30 
-bhairav = 31 
-superLocrian = 32 
-minorPentatonic = 33
+<p>majorScale = 0 </p>
+<p>minorScale = 1 </p>
+<p>chromaticScale = 2 </p>
+<p>bluesScale = 3 </p>
+<p>bluesDiminishedScale = 4 </p>
+<p>fullMinorScale = 5 </p>
+<p>harmonicMajorScale = 6 </p>
+<p>harmonicMinorScale = 7 </p>
+<p>jazzMinorScale = 8 </p>
+<p>hawaiianScale = 9 </p>
+<p>orientalScale = 10 </p>
+<p>majorMinorScale = 11 </p>
+<p>genusChromaticum = 12 </p>
+<p>dorian = 13 </p>
+<p>indian = 14 </p>
+<p>locrian = 15 </p>
+<p>lydian = 16 </p>
+<p>melodicMinor = 17 </p>
+<p>mixolydian = 18 </p>
+<p>pentatonic = 19 </p>
+<p>phrygian = 20 </p>
+<p>turkish = 21 </p>
+<p>wholeHalf = 22 </p>
+<p>wholeTone = 23 </p>
+<p>spanish = 24 </p>
+<p>pelog = 25 </p>
+<p>kumoi = 26 </p>
+<p>iwato = 27 </p>
+<p>inSen = 28 </p>
+<p>hirojoshi = 29 </p>
+<p>hungarianMinor = 30 </p>
+<p>bhairav = 31 </p>
+<p>superLocrian = 32 </p>
+<p>minorPentatonic = 33</p>
 
 <b> Schematic </b>
 
