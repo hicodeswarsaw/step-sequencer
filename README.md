@@ -6,9 +6,9 @@ This demo step sequencer contains modifications from the original provided by Ad
 <b> Essentials:</b>
 
 1. Arduino Leonardo (https://store.arduino.cc/arduino-leonardo-with-headers)
-2. Few Cables (
-3. Mini speaker
-4. 4 encouders
+2. Few wires (https://www.amazon.com/ZRAMO-Soldered-Electronic-Colored-Black/dp/B0117WNIWG/ref=sr_1_1?s=electronics&ie=UTF8&qid=1504523872&sr=1-1&keywords=electric+wire ) 
+3. Mini speaker (https://www.amazon.com/Diameter-Internal-Magent-Speaker-Arduino/dp/B073TSC7RW/ref=sr_1_22?ie=UTF8&qid=1504523800&sr=8-22&keywords=mini+speaker+arduino ) 
+4. 4 encoders ( https://www.amazon.com/Cylewet-Encoder-15-16-5-Arduino-CYT1062/dp/B06XQTHDRR/ref=sr_1_2?s=electronics&ie=UTF8&qid=1504523831&sr=1-2&keywords=encoder) 
 5. MIDI shield ( https://www.sparkfun.com/products/12660 )
 
 
